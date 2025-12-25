@@ -1,0 +1,9 @@
+{
+	"name": "Project1-Datafactoryrama",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "12f2e9cb-21d7-4812-a447-2a27932df422",
+		"tenantId": "17300893-c5f0-41f3-bb14-10f0a32d86a8"
+	}
+}
